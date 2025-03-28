@@ -1,0 +1,6 @@
+@ApiResume_HostAddress = http://localhost:5105
+
+GET {{ApiResume_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
